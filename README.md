@@ -1,0 +1,2 @@
+# Provider
+安卓Provider的封装，ContentProvider实现整个平台的数据设置和变化监听
